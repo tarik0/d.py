@@ -1,7 +1,7 @@
 # d.py // DDoS Saldırı Script'i
 **d.py** SYN Taşması GET Taşması ve BOT Saldırı yöntemlerini kullanarak kurbana **DDoS** saldırısı gerçekleştirebileceğiniz bir programdır.Daha iyi sonuçlar için daha iyi bir internet bağlantısı ve birden fazla makineyle saldırı başlatmanız önerilir.
 
-**Öğrenim amaçlıdır yaptığınız hiçbir illegal vs. işten sorumlu değilim**
+**Bu proje öğrenim amaçlıdır. Yapılan işlerden mesul değilim.**
 
 # Yönetici Olarak Çalıştırma
 Program **root** yetkileriyle açılmalıdır UNIX sistemlerinde bunu **sudo** yardımıyla yapabilirsiniz Windows sistemlerinde ise bir txt dosyasına komutları yazdıkdan sonra uzantısını .bat olarak değiştirip yönetici olarak çalıştırabilirsiniz.
